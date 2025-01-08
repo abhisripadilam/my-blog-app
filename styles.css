@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color:lavender;
+    padding:5px;
+}
+header{
+    text-align: center;
+    text-decoration: dotted;
+    color:darkslategray;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-size: 50px;
+}
+main,section,footer{
+    text-align: center;
+    text-shadow: 0cqi;
+    color:black;
+    font-size:20px;
+    background-color:hotpink;
+    border:  1px solid black;
+}
+main{
+    display:flex;
+    padding:4px;
+    margin:15%;
+    gap:20px;
+    background-color: hotpink;
+    
+}
+article{
+    
+    background-color: cornflowerblue;
+    border-width: 2px solid blue;
+    padding:5px;
+    margin:3px;
+    border:1px solid black;
+
+
+}
+article a{
+    text-decoration: none;
+}
+img{
+    border:1px solid black;
+}
